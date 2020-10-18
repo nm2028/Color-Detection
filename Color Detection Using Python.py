@@ -1,8 +1,3 @@
-# -------------------------------------------------------------------------
-# --- Author         : Pradeep Shinde
-# --- Date           : 16th September 2020
-# -------------------------------------------------------------------------
-
 # import the necessary packages
 import numpy as np
 import cv2
